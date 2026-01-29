@@ -99,16 +99,3 @@ README.md                # This file
 💡 **Cross-platform frameworks like Flutter enable faster development by sharing a single codebase across platforms.**
 
 Flutter provides powerful tools to build consistent, maintainable mobile applications while balancing performance and productivity. With hot reload, rich widgets, and native performance, Flutter is an excellent choice for modern app development.
-
-## Future Enhancements (Out of Scope)
-
-- Task persistence (local storage)
-- Task editing
-- Task completion checkboxes
-- Categories and filters
-- Cloud synchronization
-- User authentication
-
----
-
-Built with ❤️ using Flutter

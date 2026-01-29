@@ -73,17 +73,14 @@ Once the app is running, you can capture screenshots:
 - **Physical Device**: Use device screenshot shortcuts (Power + Volume Down)
 - **Flutter DevTools**: Use the screenshot feature in Flutter DevTools
 
-### Main Screen (Empty State)
-![Empty State](screenshots/empty_state.png)
-*The app shows a helpful message when no tasks exist*
+### Add Task
+![Empty State](screenshots/add_task.png)
 
-### Main Screen (With Tasks)
-![With Tasks](screenshots/with_tasks.png)
-*Tasks displayed in a clean list with delete buttons*
+### List of Tasks
+![With Tasks](screenshots/task_list.png)
 
-### Adding a Task
-![Adding Task](screenshots/adding_task.png)
-*Simple text input with Add button*
+### Deleting a Task
+![Adding Task](screenshots/delete_task.png)
 
 ## Project Structure
 
